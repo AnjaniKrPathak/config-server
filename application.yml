@@ -1,3 +1,14 @@
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource :
+   username : root
+   password : anjani4687
+   show-sql : true
+
+
+
+
 
 eureka:
   client:
