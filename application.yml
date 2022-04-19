@@ -3,6 +3,6 @@ eureka:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defualt-zone: http://localhost:8761/eureka
+      defualt-zone: http://192.168.29.156:8761/eureka
   instance:
-    hostname: localhost
+    hostname: 192.168.29.156
